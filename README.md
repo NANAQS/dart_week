@@ -1,18 +1,14 @@
-# vaquinha_burger_app
+#PROJETO DARK WEEK 
 
-A new Flutter project.
+### :: principais dificuldades 
+ - bloc
 
-## Getting Started
+### :: principais conteudo do curso
+ - bloc
+ - equatable
+ - fluter bloc
+ - match
 
-This project is a starting point for a Flutter application.
+### minha visao sobre o curso abordado 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# dart_week" 
-"# dart_week" 
+#### em minha opnião o curso tratou de muitos conteudos dos quais nao sabia me assustei no inicio com a estrutura de pastas e o raciocinio abordado mas no final deu certo e eu consegui finalizar o curso :)
